@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 13 Jan 2022 15:44:32 +0530
+Source: logm
+Binary: logm
+Architecture: all
+Version: 1.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Rahul Soni <rahul.soni@knoldus.com>
+Changed-By: Rahul Soni <rahul.soni@knoldus.com>
+Description:
+ logm       - Prints colorful logs message.
+Changes:
+ logm (1.0-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 133c00a71599b221ff7a6500685fa44a10d62bd0 3120 logm_1.0-1_all.deb
+ 850803a505981d252c4ca0b1b9cbe9c67e2c0e56 5174 logm_1.0-1_amd64.buildinfo
+Checksums-Sha256:
+ c9dd8b66903265e6da9a6c9be8a048b7d936516078727c529573d7c910cf7b6a 3120 logm_1.0-1_all.deb
+ 3322f706894e96b521c059c800f78beaed75ba915ae9dd08d314eb2ff40ace6b 5174 logm_1.0-1_amd64.buildinfo
+Files:
+ 49bd53fb74c506e0b93102278911bb72 3120 unknown optional logm_1.0-1_all.deb
+ b09744e5062e3ad419ada16da3200f45 5174 unknown optional logm_1.0-1_amd64.buildinfo
